@@ -81,6 +81,7 @@ cv2.destroyAllWindows()
 + Ensure to replace placeholders with actual paths and values.
 + The project is configured to run on GPU for faster processing
 + Make sure to have a valid API key from Roboflow.
++ Make sure to download your model after training locally on your device.
 # References
 + [Ultralytics YOLO Docs](https://docs.ultralytics.com/usage/cli/)
 + [Roboflow](https://roboflow.com/)
